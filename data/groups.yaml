@@ -1,8 +1,18 @@
 contest:
-  - name: ICPC 2025 全国邀请赛武汉赛站
+  - name: ICPC 2025 全国邀请赛武汉赛站 04/27
     groupid: 865453914
     owner: 华中科技大学
     notes: 2025 年 ICPC 全国邀请赛武汉赛站官方群
+
+  - name: ICPC 2025 全国邀请赛西安赛站 05/04
+    groupid: 665674380
+    owner: 西北工业大学
+    notes: 2025 年 ICPC 全国邀请赛西安赛站官方群（与西安区域赛群是同一个）
+
+  - name: ICPC 2025 全国邀请赛南昌赛站 05/18
+    groupid: 456102677
+    owner: 江西师范大学
+    notes: 2025 年 ICPC 全国邀请赛南昌赛站官方群
 
   - name: ICPC 2025 武汉赛站
     groupid: 144961450
@@ -69,6 +79,11 @@ contest:
     owner: 扶苏
     notes: 原 2024 年 CCPC 哈尔滨赛站民间群，本群禁赛了
 
+  - name: SD XCPC
+    groupid: 774192274
+    owner: 扶苏
+    notes: 山东省赛民间群
+
   - name: 银川站民间群
     groupid: 209518094
     owner: megumin
@@ -133,11 +148,6 @@ algo:
     groupid: 730602769
     owner: 恶魔妹妹
     notes: 一个恶魔妹妹牵头大家一起维护的民间算竞资料库
-
-  - name: 银狼の算法小窝
-    groupid: 545214567
-    owner: zrzring
-    notes: 算法竞赛交流，acm同好群。
 
   - name: Namomo OJ
     groupid: 1079311802
@@ -207,8 +217,9 @@ algo:
   - name: 牛客周赛3群
     groupid: 559723446
     owner: Silencer76
+    notes: 牛客周赛交流群
 
-  - name: 牛客月赛群
+  - name: 牛客小白月赛群
     groupid: 482533117
     owner: 炸鸡块君
     #notes: 牛客月赛交流群
@@ -238,6 +249,10 @@ algo:
     owner: 熬夜猝死前能上蓝吗💭💡🎈
     notes: 其实是萌新互助群, 大部分群友 CF 在灰到蓝水平. 每天会集体 vp div3/ Edu div2, 欢迎来玩!
 
+  - name: 华黎卡的ACM/XCPC代码工坊
+    groupid: 932480295
+    owner: 星見ワリカ(Whalica)
+    notes: 本群是一个半学术半整活的主要面向算竞的交流群
 game:
   - name: acm雀魂群
     groupid: 967906418
@@ -413,6 +428,26 @@ game:
     owner: poursoul
     notes: osu 同好群，其他音游玩家也欢迎加入
 
+  - name: Acmer 传统棋牌群
+    groupid: 111904330
+    owner: ⌬-C≡CH
+    notes: 不需要计算机就能玩的棋牌类
+
+  - name: Acmer金铲铲群
+    groupid: 1035190517
+    owner: webt 红豆泥
+    notes: 一把一节课，两把回宿舍，你说这玩意谁发明的
+
+  - name: ACM吃鸡群
+    groupid: 1038167278
+    owner: Silencer76
+    notes: 大吉大利，今晚吃鸡。
+
+  - name: ACMer三角洲群
+    groupid: 1042739090
+    owner: 寒冰永生
+    notes: 三角洲行动群
+
 job:
   - name: acmer找实习&校招&社招 三群
     groupid: 700968569
@@ -423,6 +458,11 @@ job:
     groupid: 893622591
     owner: ygg
     notes: 提供就业方向选择和就业信息，仅限双非弱校选手加入
+
+  - name: 银狼 の 工作小窝
+    groupid: 126558607
+    owner: zrzring
+    notes: 群主无力维护算法群转战工作群
 
   - name: 960万平方公里的苦哈哈
     groupid: 121328014
@@ -793,3 +833,8 @@ others:
     groupid: 611972890
     owner: Silencer76
     notes: 单身ACMER请进，欢迎分享恋爱故事
+
+  - name: 银趴の算法小窝
+    groupid: 545214567
+    owner: do vis
+    notes: 前「银狼の算法小窝」，被 do vis 夺舍
